@@ -1,0 +1,84 @@
+Workshop Chairs 
+================= 
+Ines Rehbein (Leibniz Science Campus, Institute for German Language and Heidelberg University)
+Heike Zinsmeister (University of Hamburg)
+Nathan Schneider (Georgetown University) 
+Nianwen Xue (Brandeis University) 
+
+
+Publicity and Publications Chair
+================
+Marc Verhagen (Brandeis University)
+
+
+Best Paper Committee
+================
+Adam Meyers (New York University)
+Chu-Ren Huang (The Hong Kong Polytechnic University)
+Heike Zinsmeister (University of Hamburg)
+Massimo Poesio (University of Essex)
+
+
+Program Committee
+================ 
+Adam Meyers (New York University)
+Alexis Palmer (University of North Texas)
+Amália Mendes (University of Lisbon)
+Amir Zeldes (Georgetown University)
+Andrew Gargett (University of Birmingham)
+Annemarie Friedrich (Saarland University)
+Antonio Pareja-Lora (Universidad Complutense de Madrid / ATLAS, UNED)
+Archna Bhatia (IHMC)
+Benoît Sagot (Université Paris Diderot)
+Bonnie Webber (University of Edinburgh)
+Collin Baker (ICSI Berkeley)
+Dirk Hovy (University of Copenhagen)
+Djamé Seddah (Paris-Sorbonne University)
+Els Lefever (Ghent University)
+Heike Zinsmeister (University of Hamburg)
+Ines Rehbein (Leibniz Science Campus, Institute for German Language and Heidelberg University)
+Joel Tetreault (Grammarly)
+John S. Y. Lee (City University of Hong Kong)
+Josef Ruppenhofer (Leibniz Science Campus, Institute for German Language and Heidelberg University)
+Katrin Tomanek (OpenTable)
+Kemal Oflazer (Carnegie Mellon University—Qatar)
+Kilian Evang (University of Groningen)
+Kim Gerdes (Sorbonne Nouvelle)
+Kiril Simov (Bulgarian Academy of Sciences)
+Lori Levin (Carnegie Mellon University)
+Manfred Stede (University of Potsdam)
+Marie Candito (Université Paris Diderot)
+Markus Dickinson (Indiana University)
+Martha Palmer (University of Colorado at Boulder)
+Massimo Poesio (University of Essex)
+Nancy Ide (Vassar College)
+Nicoletta Calzolari (CNR-ILC)
+Nizar Habash (New York University Abu Dhabi)
+Özlem Çetinoğlu (University of Stuttgart)
+Pablo Faria (State University of Campinas)
+Ron Artstein (Institute for Creative Technologies, USC)
+Sandra Kübler (Indiana University)
+Stefanie Dipper (Ruhr University Bochum)
+Tomaž Erjavec (Jožef Stefan Institute)
+Udo Hahn (Jena University)
+Valia Kordoni (Humboldt University of Berlin)
+
+
+Organizing Committee 
+================= 
+Stefanie Dipper (Ruhr University Bochum) 
+Annemarie Friedrich (Saarland University) 
+Chu-Ren Huang (The Hong Kong Polytechnic University) 
+Nancy Ide (Vassar College) 
+Lori Levin (Carnegie-Mellon University) 
+Adam Meyers (New York University) 
+Antonio Pareja-Lora (Universidad Complutense de Madrid / ATLAS, UNED) 
+Massimo Poesio (University of Essex) 
+Sameer Pradhan (Boulder Learning, Inc.) 
+Ines Rehbein (Leibniz Science Campus, Institute for German Language and Heidelberg University)
+Manfred Stede (University of Potsdam) 
+Katrin Tomanek (OpenTable) 
+Fei Xia (University of Washington) 
+Heike Zinsmeister (University of Hamburg) 
+
+
