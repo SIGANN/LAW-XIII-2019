@@ -6,7 +6,7 @@ body {
 
 body, p {
     xfont-family: Roboto, Helvetica, Arial, sans-serif; /* screws up on non-asci letters */
-    font-family: "Times New Roman", Times, serif;
+    font-family: Roboto, Helvetica, Arial;
 }
 
 table, th, td, img {
@@ -25,7 +25,7 @@ table, th, td, img {
 /*------------------------------ HEADER ------------------------------*/
 
 #header {
-    background: linear-gradient(rgba(222,119,0,1), rgba(222,119,0,0.4));
+    background: linear-gradient(rgba(239,149,39,1), rgba(239,149,39,0.6));
     border-bottom: 2px solid #fff;
     color: #fff;
     padding-left: 20px;
@@ -36,7 +36,7 @@ table, th, td, img {
 #header .title {
     min-width: 1000px;  /* needed to avoid nasty overlapping lines */
     font-family: Roboto, Helvetica, Arial, sans-serif;
-    font-size: 48px;
+    font-size: 42px;
     font-weight: bold;
     padding-left: 40px;
     padding-bottom: 5px;
@@ -44,7 +44,7 @@ table, th, td, img {
 
 #header .body {
     font-family: Roboto, Helvetica, Arial, sans-serif;
-    font-size: 28px;
+    font-size: 22px;
     padding-left: 40px;
     padding-bottom: 0px;
 }
@@ -86,8 +86,8 @@ table, th, td, img {
 
 #navigation li a {
     color: #eee;
-    font-size: 24px;
-    line-height: 30px;
+    font-size: 20px;
+    line-height: 26px;
     text-decoration: none;
 }
 
@@ -106,33 +106,31 @@ table, th, td, img {
 }
 
 h1, h2, h3 {
-    color: rgb(88,169,63);
-    color: rgb(68,129,48);
-    font-family: "Slabo 27px";
+    color: rgb(101,29,35);
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 24px;
     font-weight: bold;
     margin: 0 0 20px;
 }
 
 h2 {
-    font-size: 24px;
+    font-size: 18px;
     font-weight: normal;
     margin: 0 0 18px;
 }
 
 h3 {
-    font-size: 22px;
+    font-size: 14px;
     font-weight: normal;
     margin: 4 0 14px;
 }
 
 p {
     color: #111111;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 16px;
+    line-height: 20px;
     margin: 0 0 20px;
 }
 
@@ -158,18 +156,18 @@ table.dates {
 table.dates td {
     padding: 7px;
     border: 1px solid #006699;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 table.committee a {
     text-decoration: none;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 li {
     color: #111111;
-    font-size: 18px;
-    line-height: 26px;
+    font-size: 16px;
+    line-height: 22px;
 }
 
 .left { text-align: left; }
@@ -209,26 +207,26 @@ li {
 .sidebar td {
     padding: 5px;
     border: 1px solid #006699;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 .sidebar p {
     padding-left: 20px;
-    font-size: 18px;
+    font-size: 14px;
 }
 
 .sidebar h3 {
     margin-top: 15px;
     margin-bottom: 10px;
+	font-size: 18px;
 }
 
 
 /*------------------------------ FOOTER ------------------------------*/
 
 #footer {
-    /* color matches color from the logo */
-    background: linear-gradient(rgba(88,169,63,0.8), rgba(88,169,63,0.7));
-    background: linear-gradient(rgba(68,129,48,0.8), rgba(68,129,48,0.7));
+
+    background: linear-gradient(rgba(239,149,39,1), rgba(239,149,39,0.8));
     xborder-top: 4px solid #999;
     border-top: 2px solid rgba(222,119,0,0.8);
     border-bottom: 4px solid #fff;
