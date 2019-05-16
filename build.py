@@ -49,7 +49,7 @@ import os, sys, shutil
 # (2) the images to be included and (3) the style sheets to be included. Edit
 # these as needed.
 
-PAGES = ['cfp', 'committee', 'index', 'submission', 'program', 'invited']
+PAGES = ['cfp', 'committee', 'index', 'accepted']
 
 
 IMAGES = [os.path.join('images', 'logo', 'LAW13_Logo.svg')]
