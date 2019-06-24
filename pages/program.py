@@ -22,20 +22,20 @@ TABLE = StringIO.StringIO()
 
 # list of titles with mapping to count identifier in pdf files
 TITLES = {
-    'Readers vs. Writers vs. Texts: Coping with Different Perspectives of Text Understanding in Emotion Annotation': '01',
-    'Finding Good Conversations Online: The Yahoo News Annotated Comments Corpus': '02',
-    'Crowdsourcing discourse interpretations: On the influence of context and the reliability of a connective insertion task': '03',
-    'A Code-Switching Corpus of Turkish-German Conversations': '04',
-    'Annotating omission in statement pairs': '05',
-    'Annotating Speech, Attitude and Perception Reports': '06',
-    'Consistent Classification of Translation Revisions: A Case Study of English-Japanese Student Translations': '07',
-    'Representation and Interchange of Linguistic Annotation. An In-Depth, Side-by-Side Comparison of Three Designs': '08',
-    'TDB 1.1: Extensions on Turkish Discourse Bank': '09',
-    'Two Layers of Annotation for Representing Event Mentions in News Stories': '10',
-    'Word Similarity Datasets for Indian Languages: Annotation and Baseline Systems': '11',
-    'The BECauSE Corpus 2.0: Annotating Causality and Overlapping Relations': '12',
-    'Catching the Common Cause: Extraction and Annotation of Causal Relations and their Participants': '13',
-    'Assessing SRL Frameworks with Automatic Training Data Expansion': '14'
+    'Crowdsourced Hedge Term Disambiguation': '01',
+    'WiRe57 : A Fine-Grained Benchmark for Open Information Extraction': '02',
+    'Crowdsourcing Discourse Relation Annotations by a Two-Step Connective Insertion Task': '03',
+    'Annotating and analyzing the interactions between meaning relations': '04',
+    'CCGweb: a New Annotation Tool and a First Quadrilingual CCG Treebank': '05',
+    'The making of the Litkey Corpus, a richly annotated longitudinal corpus of German texts written by primary school children': '06',
+    'The Materials Science Procedural Text Corpus: Annotating Materials Synthesis Procedures with Shallow Semantic Structures': '07',
+    'Tagging modality in Oceanic languages of Melanesia': '08',
+    'Harmonizing Different Lemmatization Strategies for Building a Knowledge Base of Linguistic Resources for Latin': '09',
+    'Assessing Back-Translation as a Corpus Generation Strategy': '10',
+    'A Framework for Annotating ': '11',
+    'An Online Annotation Assistant for Argument Schemes': '12',
+    'Annotating formulaic sequences in spoken Slovenian': '13',
+    'Annotating Information Structure in Italian': '14'
 }
 
 
@@ -67,7 +67,7 @@ class Parser(HTMLParser):
         if data.startswith('Invited Talk I'):
             data += ". <a class=paper href=invited.html>(abstract)</a>"
         elif data in TITLES:
-            data += ". (<a class=paper href=papers/LAW%s.pdf>pdf</a>)" % TITLES[data]
+            data += ". (<a class=paper href=pdf/W19-40%s.pdf>pdf</a>)" % TITLES[data]
         #if not data[0] in ('0', '1', '2', '3', '4', '5', '6', '7', '8', '9') and len(data) > 10:
         #    sys.stderr.write('>>>'+data+"\n")
             
